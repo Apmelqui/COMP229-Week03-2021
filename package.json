@@ -1,9 +1,13 @@
 {
-  "name": "week04",
-  "version": "0.0.0",
+  "name": "comp229-summer2021-week03",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^12.00.0",
+    "npm": "^6.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -16,5 +20,18 @@
     "jquery": "^3.6.0",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "demo app for COMP229 week 3",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apmelqui/COMP229-Week03-2021.git"
+  },
+  "author": "Adriano Melquiades",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apmelqui/COMP229-Week03-2021/issues"
+  },
+  "homepage": "https://github.com/Apmelqui/COMP229-Week03-2021#readme"
 }
